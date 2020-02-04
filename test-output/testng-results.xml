@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="72" started-at="2019-10-13T12:16:28 EDT" finished-at="2019-10-13T12:16:28 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="72" started-at="2019-10-13T12:16:28 EDT" finished-at="2019-10-13T12:16:28 EDT">
+      <class name="collection.classes.MapPractise">
+        <test-method status="PASS" signature="test1()[pri:0, instance:collection.classes.MapPractise@23e028a9]" name="test1" duration-ms="14" started-at="2019-10-13T12:16:28 EDT" finished-at="2019-10-13T12:16:28 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- collection.classes.MapPractise -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
